@@ -5,7 +5,7 @@ Start building a portfolio so that I can present my work to potential employers.
 
 ## Website
 
-[Git Hub Link to Portfolio](https://cheriecookson.github.io/cheriecookson/my.portfolio.2020.git)
+[Link to Portfolio](https://cheriecookson.github.io/portfolio2020/)
 
 
 ## Sceenshot
