@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+/* 
 :root {
     --text-color: rgb(0,102,153);
     --primary-color: rgb(69, 79, 84);
@@ -148,4 +158,4 @@ header nav ul li a {
     header nav ul li a {
       font-size: 20px;
     }
-}
+} */
