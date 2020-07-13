@@ -1,35 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(247, 247, 247);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-main {
-  flex: 1 0 auto;
-}
-/* 
-:root {
-    --text-color: rgb(0,102,153);
-    --primary-color: rgb(69, 79, 84);
-    --secondary-color: rgb(255, 255, 255);
-  }
-
-body {
-    color: var(--text-color);
-    font-family: Helvetica, Arial, sans-serif;
-    background-image: url(images/background.jpg);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-
-header {
+/* header {
     padding: 10px 35px;
     background-color: var(--text-color);
     display: flex;
@@ -158,4 +134,4 @@ header nav ul li a {
     header nav ul li a {
       font-size: 20px;
     }
-} */
+}  */
