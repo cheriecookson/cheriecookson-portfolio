@@ -10,4 +10,4 @@ Start building a portfolio so that I can present my work to potential employers.
 
 ## Sceenshot
 
-![image](https://user-images.githubusercontent.com/65319429/83373932-a0b3a500-a38f-11ea-8556-dcbc745e3d2f.png)
+![image](https://user-images.githubusercontent.com/65319429/87269267-47608a80-c492-11ea-9257-e9429b9a6750.png)
